@@ -1,0 +1,49 @@
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    background: black;
+    background-image: url("../images/peanutsnames.jpg"); 
+    color: yellowgreen;
+    width: 100%;
+    height: 400px;
+    background-repeat: no-repeat;
+    background-size: contain;
+  }
+
+
+label {
+  color: yellowgreen;
+  font-weight: bold;
+  font-size: 25px;
+}
+
+
+#form {
+    float: right;
+    width: 300px;
+    padding: 20px;
+  }
+ 
+  
+
+#typeIn [type="text"] {
+    font-size: 20px;
+    width: 280px;
+    height: 100px;
+    margin-bottom: 20px;  
+  }
+  
+  
+
+#peanuts {
+    width: 90%;
+  }
+  
+
+
+.btn {
+    float: left;
+    padding: 10px;
+  }
+  
+  
